@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Estudo_0611</string>
+    <string name="btPesquisar">SEARCH</string>
+    <string name="tvInforme">Inform the code number, please</string>
+    <string name="tvNome">Name:</string>
+    <string name="tvCabelo">Hair:</string>
+    <string name="tvPele">Skin:</string>
+    <string name="tvData">Birth:</string>
+    <string name="tvGenero">Gender:</string>
+</resources>

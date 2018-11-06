@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Estudo_0611</string>
+    <string name="btPesquisar">Pesquisar</string>
+    <string name="tvInforme">Informe o código a ser pesquisado, por favor</string>
+    <string name="tvNome">Nome:</string>
+    <string name="tvCabelo">Cabelo:</string>
+    <string name="tvPele">Pele:</string>
+    <string name="tvData">Nascimento:</string>
+    <string name="tvGenero">Gênero:</string>
+</resources>
